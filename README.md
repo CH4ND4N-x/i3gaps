@@ -17,3 +17,6 @@ All these configs are experimental and updated frequently
 ### Fonts
 - DejaVu Sans Mono
 - Iosevka Nerd Font
+
+### backgrounds 
+- [Here](https://github.com/CH4ND4N-x/backgrounds)
